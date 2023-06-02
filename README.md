@@ -1,5 +1,5 @@
 ### Hi there 👋
-### It,s me, Icaro Kossmann!
+### It's me, Icaro Kossmann <3!
 
 <!--
 **icarokossmann/icarokossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
